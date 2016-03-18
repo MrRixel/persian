@@ -240,6 +240,7 @@ function create_config( )
     "echo",
     "plugins",
     "time",
+    "tosuper",
     "welcome"
     },
     sudo_users = {170750859},--Sudo users
